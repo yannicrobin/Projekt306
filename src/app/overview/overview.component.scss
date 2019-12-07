@@ -1,0 +1,15 @@
+.container {
+  width: auto;
+  height: auto;
+  box-shadow: 10px 5px 5px gray;
+
+  &__plus {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+}
+
+#icon-size {
+  font-size: 36px;
+}
