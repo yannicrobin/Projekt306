@@ -3,10 +3,14 @@
   height: auto;
   box-shadow: 10px 5px 5px gray;
 
-  &__plus {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 10px;
+  &__detail {
+    margin-top: 10px;
+    display: block;
+    margin-left: 10px;
+
+    &__flex {
+      display: flex;
+    }
   }
 }
 
